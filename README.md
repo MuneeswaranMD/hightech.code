@@ -8,6 +8,6 @@ Its layout is designed with the combination of css-flex and css-grid.
 
 By [Clicking Me](https://muneeswaranmd.github.io/hightech.code/) you'll see the live version of this project.
 
-## screen
+
 
 
