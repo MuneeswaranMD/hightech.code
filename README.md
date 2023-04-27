@@ -6,7 +6,7 @@ Its layout is designed with the combination of css-flex and css-grid.
 
 ## site link
 
-By [Clicking Me](https://) you'll see the live version of this project.
+By [Clicking Me](https://muneeswaranmd.github.io/hightech.code/) you'll see the live version of this project.
 
 ## screen
 
